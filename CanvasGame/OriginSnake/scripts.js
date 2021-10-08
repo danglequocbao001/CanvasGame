@@ -324,5 +324,4 @@ JS_SNAKE.snake = function () {
     };
 };
 
-
 JS_SNAKE.game.init();
